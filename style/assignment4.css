@@ -1,0 +1,43 @@
+body{
+    width: 600px;
+    height: 100%;
+}
+
+section.sec1{
+background-color: rgba(97, 31, 5, 1);
+visibility: hidden;
+position:absolute;
+overflow: scroll;
+width: 500px;
+height:75%;
+margin: 15px;
+
+}
+
+section.sec2{
+    background-color: rgba(64, 92, 124, 0.05);    
+    visibility: hidden;
+    position:absolute;
+    overflow: scroll;
+    width: 500px;
+    height:75%;
+    margin: 15px;
+}
+
+p{
+    text-align: center;
+}
+p#p {
+    margin: 10px;
+}
+p.p{
+    color: white;
+}
+img.img {
+margin-left: 45px;
+margin-top: 20px;
+}
+footer{
+    position: relative;
+    top:550px;
+}
